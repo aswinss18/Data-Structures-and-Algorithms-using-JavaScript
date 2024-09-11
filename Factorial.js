@@ -7,5 +7,6 @@ function factorial(n) {
 
   return result;
 }
-
 console.log(factorial(5));
+
+//  Big-O = O(n)
