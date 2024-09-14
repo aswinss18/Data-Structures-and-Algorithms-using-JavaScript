@@ -5,3 +5,5 @@ function Fibanacci(n) {
 }
 
 console.log(Fibanacci(7));
+
+// Big O - O(2^n)
